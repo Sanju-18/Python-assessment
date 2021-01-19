@@ -1,3 +1,5 @@
+#finding the no.of occurence for each alphabet in the string and inserting
+#the occurence >1 at the end of the letter.
 def char_to_text(s):
   s1 = ''
   length = len(s)
