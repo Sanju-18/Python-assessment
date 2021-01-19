@@ -1,3 +1,4 @@
+#eleminating the equal no.of same alphabets from given names.
 lst1 = list(input("Word-1\n"))
 lst2 = list(input("Word-2\n"))
 
