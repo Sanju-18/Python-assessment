@@ -2,6 +2,7 @@ import random
 import pandas as pd
 import numpy as np
 
+# random generation of timetable.
 n = ["sub1","sub2","sub3","sub4","sub5"]
 a = []
 for i in n:
