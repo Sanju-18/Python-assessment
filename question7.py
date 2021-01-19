@@ -1,3 +1,4 @@
+#converting number into corresponding alphabets
 print("Enter the numbers")
 num_arr = [ int(i) for i in input().split(",")]
 s=''
